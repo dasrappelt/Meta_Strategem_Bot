@@ -1,5 +1,5 @@
-Meta Strategem Bot
+##Meta Strategem Bot##
 
-to be added soon
+README.md will be added soon
 
 cheers
